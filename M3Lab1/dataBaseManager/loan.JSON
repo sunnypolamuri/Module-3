@@ -1,0 +1,39 @@
+loans = [
+    {
+        "customerId": 1,
+        "customerName": "John Doe",
+        "customerEmail": "johndoe@example.com",
+        "loanId": 101,
+        "loanAmount": 5000.00,
+        "loanIssueDate": "2024-01-01",
+        "loanStatus": "Open",
+        "paymentId": 201,
+        "paymentAmount": 1000.00,
+        "paymentDate": "2024-02-01"
+    },
+    {
+        "customerId": 1,
+        "customerName": "John Doe",
+        "customerEmail": "johndoe@example.com",
+        "loanId": 101,
+        "loanAmount": 5000.00,
+        "loanIssueDate": "2024-01-01",
+        "loanStatus": "Open",
+        "paymentId": 202,
+        "paymentAmount": 1500.00,
+        "paymentDate": "2024-03-01"
+    },
+    {
+        "customerId": 1,
+        "customerName": "John Doe",
+        "customerEmail": "johndoe@example.com",
+        "loanId": 102,
+        "loanAmount": 3000.00,
+        "loanIssueDate": "2024-02-15",
+        "loanStatus": "Open",
+        "paymentId": 203,
+        "paymentAmount": 500.00,
+        "paymentDate": "2024-03-15"
+    }
+]
+//const loans = require('./sampleData.json'); console.log(loan.JSON);
